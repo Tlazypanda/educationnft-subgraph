@@ -1,0 +1,12 @@
+{
+  "output": "generated/",
+  "chain": "matic",
+  "datasources": [
+    { "address": "0x3cd266509d127d0eac42f4474f57d0526804b44e", "startBlock":  19622847, "module": [ "erc721", "ownable" ] }, 
+    { "address": "0x1ed25648382c2e6da067313e5dacb4f138bc8b33", "startBlock":  25159561, "module": [ "erc1155", "ownable" ] },
+    { "address": "0x162ef7ec1f871be174d3e2c977a20afbcbe3ed17", "startBlock":  26234357, "module": [ "erc721", "ownable" ] },
+    { "address": "0xe57b336779a346e6d2b6f82ddc38b3a21333c2c8", "startBlock":  25206383, "module": [ "erc721", "ownable" ] },
+    { "address": "0xdb46d1dc155634fbc732f92e853b10b288ad5a1d", "startBlock":  28384641, "module": [ "erc721", "ownable" ] },
+    { "address": "0x2953399124f0cbb46d2cbacd8a89cf0599974963", "startBlock":  17852973, "module": [ "erc1155", "ownable" ] }
+  ]
+}
